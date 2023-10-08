@@ -1,0 +1,5 @@
+# Add text.log
+*.log
+
+# Add folder name node_moduel
+node_moduel/
